@@ -1,0 +1,6 @@
+[project]
+name = "prediction-market"
+description = "Bitcoin-Settled Prediction Market on Stacks"
+
+[contracts]
+"prediction-market" = { path = "contracts/prediction-market.clar" }
