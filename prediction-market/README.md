@@ -44,4 +44,4 @@ clarinet test
 - [ ] Security audit
 
 ## Contributing
-Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests..
